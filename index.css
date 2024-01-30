@@ -1,0 +1,10 @@
+.con{
+    display: flex;
+   flex-direction: row;
+    padding: 20px;
+    color: red;
+}
+
+.strick{
+    text-decoration: line-through;
+}
